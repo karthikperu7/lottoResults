@@ -1,0 +1,9 @@
+.selected {
+  color: #663096;
+  font-weight: bold;
+  background-color: #eee8f3;
+}
+
+.not-selected {
+  color: #663096;
+}
