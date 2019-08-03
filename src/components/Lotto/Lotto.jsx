@@ -4,7 +4,7 @@ import Tables from "../Table/Tables";
 import Numbers from "../Numbers/Numbers";
 import PBText from "../Text/PBText";
 import { Button } from "react-bootstrap";
-import numbersData from "../../data";
+import numbersData from "../../constants/data";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBolt, faTrashAlt } from "@fortawesome/free-solid-svg-icons";
 
