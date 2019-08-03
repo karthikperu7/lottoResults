@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Lotto Results
 
 This is a small react project that uses 'the lotto's' public [API](https://data.api.thelott.com/sales/vmax/web/data/lotto/latestresults) to retrieve the latest lotto results and display it in a graphical interface. This project uses [bootstrap](https://react-bootstrap.github.io/) to create the sequence of numbers with responsiveness and [font-awesome](https://fontawesome.com/how-to-use/on-the-web/using-with/react).
